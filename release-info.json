@@ -1,0 +1,29 @@
+{
+  "project": "Silver Pines Ukrainian Localization",
+  "author": "Skarig",
+  "plugin_id": "skarig.silverpines.localization",
+  "plugin_version": "0.1.9",
+  "source_file": "src/LocalizationPlugin.cs",
+  "source_sha256": "4be764091e745b45a9e0971a16a80e5ccde374cc0f2c6f83cad0bc15a9f6c012",
+  "released_plugin_sha256": "174cc20ac36634708d3b6f218058131854ac0d7c8109ecab8b678e904d45e831",
+  "public_archive": {
+    "name": "Silver_Pines_Ukrainian_Mod.zip",
+    "bytes": 1516363461,
+    "sha256": "b469567cce0a28556bdfed7b553437094e59da914102c2e63966fa945e76691f"
+  },
+  "game": {
+    "steam_app_id": "2333000",
+    "steam_build_id": "26489514",
+    "unity": "6000.3.15f1",
+    "platform": "Windows x64"
+  },
+  "toolchain": {
+    "bepinex": "6.0.0-be.791+b782da4",
+    "roslyn": "Microsoft.Net.Compilers.Toolset 4.8.0",
+    "runtime": "BepInEx-bundled .NET 6.0.7"
+  },
+  "voice_plugin_included": false,
+  "generated_game_interop_included": false,
+  "game_assets_included_in_source": false,
+  "deterministic_binary_reproduction": false
+}
